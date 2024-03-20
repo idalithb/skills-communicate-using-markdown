@@ -6,3 +6,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Creating a list
+- [x] Check this list
+- [ ] Be sure to remember the basics  
